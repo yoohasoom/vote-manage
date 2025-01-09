@@ -15,14 +15,14 @@
 ### 실행화면
 
 
-메인메뉴
+메인메뉴<br/>
 홈으로 버튼을 눌렀을때 나오는 페이지이다. 기본으로 보이는 페이지이기도 하다.
 
 ![image](https://github.com/user-attachments/assets/a6113158-1dac-441c-805c-47c4ef3d4e91)
 
 
 
-후보조회
+후보조회<br/>
 후보를 조회하는 페이지이다. 투표할 수 있는 후보들이 적혀있다.
 
 ![image](https://github.com/user-attachments/assets/66b82b70-5283-4dfb-b0ff-0cf2dc47727e)
@@ -30,7 +30,7 @@
 
 
 
-투표화면
+투표화면<br/>
 투표를 하는 화면이다.
 
 ![image](https://github.com/user-attachments/assets/6bbc94fb-49be-4c86-b2e5-fe98e39c3530)
@@ -39,8 +39,7 @@
 
 
 
-
-투표건수조회
+투표건수조회<br/>
 누가 누구를 투표했는지 알 수 있는 페이지이다.
 
 ![image](https://github.com/user-attachments/assets/2c75e3c3-995e-49f4-a17b-bbad084c66fe)
@@ -49,7 +48,7 @@
 
 
 
-후보자등수
+후보자등수<br/>
 어떤 후보자가 몇등인지 알 수 있는 페이지이다.
 
 ![image](https://github.com/user-attachments/assets/6804b345-cd2b-461e-9cb2-b673a4c2d4df)
