@@ -16,29 +16,44 @@
 
 
 메인메뉴
-![image](https://github.com/user-attachments/assets/43c83efc-7ffb-47ae-9755-7de1b7b97f54)
+홈으로 버튼을 눌렀을때 나오는 페이지이다. 기본으로 보이는 페이지이기도 하다.
+
+![image](https://github.com/user-attachments/assets/a6113158-1dac-441c-805c-47c4ef3d4e91)
 
 
 
 후보조회
-![image](https://github.com/user-attachments/assets/11cd0578-fc71-42f3-a1c8-fca4371f3857)
+후보를 조회하는 페이지이다. 투표할 수 있는 후보들이 적혀있다.
+
+![image](https://github.com/user-attachments/assets/66b82b70-5283-4dfb-b0ff-0cf2dc47727e)
 
 
 
 
 투표화면
-![image](https://github.com/user-attachments/assets/8ef87f8c-b048-4965-8452-f1410cc486d0)
+투표를 하는 화면이다.
+
+![image](https://github.com/user-attachments/assets/6bbc94fb-49be-4c86-b2e5-fe98e39c3530)
+
+
 
 
 
 
 투표건수조회
-![image](https://github.com/user-attachments/assets/57efd3e0-acae-421c-a78d-3516259d1a7f)
+누가 누구를 투표했는지 알 수 있는 페이지이다.
+
+![image](https://github.com/user-attachments/assets/2c75e3c3-995e-49f4-a17b-bbad084c66fe)
+
+
 
 
 
 후보자등수
-![image](https://github.com/user-attachments/assets/bc61d25a-e8eb-4a1a-9406-caeca5e05021)
+어떤 후보자가 몇등인지 알 수 있는 페이지이다.
+
+![image](https://github.com/user-attachments/assets/6804b345-cd2b-461e-9cb2-b673a4c2d4df)
+
 
 
 
